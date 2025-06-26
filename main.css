@@ -1,0 +1,58 @@
+    *{
+    margin: 0;
+    padding: 0;
+}
+
+    body{
+    text-align: center;
+    background-image:url("fundo.png");
+    background-size:100%;
+    font-family:garamond, serif;
+}
+    header{
+    padding:4em;
+    background-color:#30302f;
+    color:white;
+}
+    article{
+    background-color:#8a8a8a; 
+    padding:1em;
+    margin-left:29em;
+    margin-right:29em;
+    margin-top:2em;
+    margin-bottom:4em;
+    font-size:24px;
+    color:white;
+    border-radius:1.8em;
+}
+    #opcao01{
+        margin-right:5em;
+}
+    img{
+    border:3px solid white;
+    border-radius:1em;
+    box-shadow: 0 0 20px;
+}
+    img:hover{
+    transform:scale(1.2);
+    cursor:pointer;
+}
+    header a{
+        text-decoration: none;
+        color: white;
+}
+    a{
+    color:black;
+}
+
+    section p{
+    background-color:#8a8a8a; 
+    padding:1em;
+    margin-left:29em;
+    margin-right:29em;
+    margin-top:1em;
+    margin-bottom:2em;
+    font-size:24px;
+    color:white;
+    border-radius:1.8em;
+    }
